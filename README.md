@@ -8,7 +8,7 @@ Python file sentiment_analysis.py contains all the clean code to be used, althou
 
 Model was trained using sklearn pipeline: CountVectorizer, TfidfTransformer and LinearSVC classifier.  
 The training data contained only 2 labels - Positive and Negative Sentiment but test data also had Neutral Sentiment.  
-Thats why accuracy score was better for train and validation set but less for test set.  
+Thats why accuracy score was better for train set (79.33) and validation set (76.50) but less for test set (60.44).  
 
 Run the sentiment_analysis.py to train the model and Evaluate sentiment for any tweet.  
 
