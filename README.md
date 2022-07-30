@@ -1,7 +1,7 @@
 # Twitter_Sentiment_Analysis
 
 This is a simple ML model that is trained to predict the sentiment depicted by a tweet.  
-The dataset used for training was taken from this [link](https://drive.google.com/file/d/1t6iUlMZamG5kpf_ms6o-lgHzSOOgpXTP).  
+A private dataset was used for training was taken to train the model.
 
 The model was trained in Python using four modules: sklearn, nltk, re and pandas.  
 Python file sentiment_analysis.py contains all the clean code to be used, although jupyter notebook (unclean code) is also present.  
